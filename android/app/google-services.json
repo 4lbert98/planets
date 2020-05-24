@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287466514824",
+    "firebase_url": "https://planets-ded80.firebaseio.com",
+    "project_id": "planets-ded80",
+    "storage_bucket": "planets-ded80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287466514824:android:56d9cf26203eeeb205b23d",
+        "android_client_info": {
+          "package_name": "mx.alberto.luna.planets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287466514824-k3vj7i4kffmfpvdlg5o9q39ite8006jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobAIiciiIIkFVmxV6u6FOxl77C72UbPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287466514824-k3vj7i4kffmfpvdlg5o9q39ite8006jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
